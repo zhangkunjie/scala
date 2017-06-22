@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scala_0002_ctrlandfunc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0003_array" vcs="svn" />
   </component>
 </project>

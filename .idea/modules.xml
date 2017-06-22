@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala.iml" filepath="$PROJECT_DIR$/.idea/modules/scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0001_basic/scala_0001_basic.iml" filepath="$PROJECT_DIR$/scala_0001_basic/scala_0001_basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0002_ctrlandfunc/scala_0002_ctrlandfunc.iml" filepath="$PROJECT_DIR$/scala_0002_ctrlandfunc/scala_0002_ctrlandfunc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0003_array/scala_0003_array.iml" filepath="$PROJECT_DIR$/scala_0003_array/scala_0003_array.iml" />
     </modules>
   </component>
 </project>
