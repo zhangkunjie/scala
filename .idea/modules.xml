@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/scala_0006_objects/scala_0006_objects.iml" filepath="$PROJECT_DIR$/scala_0006_objects/scala_0006_objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0007_package/scala_0007_package.iml" filepath="$PROJECT_DIR$/scala_0007_package/scala_0007_package.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0008_extend/scala_0008_extend.iml" filepath="$PROJECT_DIR$/scala_0008_extend/scala_0008_extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0009_fileandregex/scala_0009_fileandregex.iml" filepath="$PROJECT_DIR$/scala_0009_fileandregex/scala_0009_fileandregex.iml" />
     </modules>
   </component>
 </project>
