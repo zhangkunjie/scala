@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/scala_0003_array/scala_0003_array.iml" filepath="$PROJECT_DIR$/scala_0003_array/scala_0003_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0004_mapandtuple/scala_0004_mapandtuple.iml" filepath="$PROJECT_DIR$/scala_0004_mapandtuple/scala_0004_mapandtuple.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0005_classes/scala_0005_classes.iml" filepath="$PROJECT_DIR$/scala_0005_classes/scala_0005_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0006_objects/scala_0006_objects.iml" filepath="$PROJECT_DIR$/scala_0006_objects/scala_0006_objects.iml" />
     </modules>
   </component>
 </project>
