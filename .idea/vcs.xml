@@ -10,5 +10,6 @@
     <mapping directory="$PROJECT_DIR$/scala_0007_package" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scala_0008_extend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scala_0010_trait" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0011_operator" vcs="Git" />
   </component>
 </project>

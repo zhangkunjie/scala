@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/scala_0008_extend/scala_0008_extend.iml" filepath="$PROJECT_DIR$/scala_0008_extend/scala_0008_extend.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0009_fileandregex/scala_0009_fileandregex.iml" filepath="$PROJECT_DIR$/scala_0009_fileandregex/scala_0009_fileandregex.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0010_trait/scala_0010_trait.iml" filepath="$PROJECT_DIR$/scala_0010_trait/scala_0010_trait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0011_operator/scala_0011_operator.iml" filepath="$PROJECT_DIR$/scala_0011_operator/scala_0011_operator.iml" />
     </modules>
   </component>
 </project>
