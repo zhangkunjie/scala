@@ -14,6 +14,11 @@
       <module fileurl="file://$PROJECT_DIR$/scala_0009_fileandregex/scala_0009_fileandregex.iml" filepath="$PROJECT_DIR$/scala_0009_fileandregex/scala_0009_fileandregex.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0010_trait/scala_0010_trait.iml" filepath="$PROJECT_DIR$/scala_0010_trait/scala_0010_trait.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_0011_operator/scala_0011_operator.iml" filepath="$PROJECT_DIR$/scala_0011_operator/scala_0011_operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0012_highorderfunction/scala_0012_highorderfunction.iml" filepath="$PROJECT_DIR$/scala_0012_highorderfunction/scala_0012_highorderfunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0013_collection/scala_0013_collection.iml" filepath="$PROJECT_DIR$/scala_0013_collection/scala_0013_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0014__patternmatch/scala_0014__patternmatch.iml" filepath="$PROJECT_DIR$/scala_0014__patternmatch/scala_0014__patternmatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0015__annotations/scala_0015__annotations.iml" filepath="$PROJECT_DIR$/scala_0015__annotations/scala_0015__annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala_0016__xml/scala_0016__xml.iml" filepath="$PROJECT_DIR$/scala_0016__xml/scala_0016__xml.iml" />
     </modules>
   </component>
 </project>

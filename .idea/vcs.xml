@@ -11,5 +11,10 @@
     <mapping directory="$PROJECT_DIR$/scala_0008_extend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scala_0010_trait" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scala_0011_operator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0012_highorderfunction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0013_collection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0014__patternmatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0015__annotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0016__xml" vcs="Git" />
   </component>
 </project>
