@@ -16,5 +16,9 @@
     <mapping directory="$PROJECT_DIR$/scala_0014__patternmatch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scala_0015__annotations" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scala_0016__xml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0017__generic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0018_advancedType" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0019_analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scala_0021_implicit" vcs="Git" />
   </component>
 </project>
