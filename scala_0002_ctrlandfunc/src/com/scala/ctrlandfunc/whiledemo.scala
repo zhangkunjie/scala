@@ -2,7 +2,7 @@ package com.scala.ctrlandfunc
 /**
  * @author Administrator
  */
-object whiletest{
+object whiledemo{
   def main(args: Array[String]): Unit = {
    var sum=0
    var n=0
