@@ -5,8 +5,13 @@ import scala.collection.mutable.ArrayBuffer
 /**
   * @author Administrator
   */
-object arraytest {
+object arraydemo {
   def main(args: Array[String]): Unit = {
+    val colors = Array("red", "green", "blue")
+    colors(0)="purple"
+    println(colors(0))
+    println(colors.toString)
+
     //定长数组
     val a = new Array[Int](3)
     for (i <- 0 until a.length)
