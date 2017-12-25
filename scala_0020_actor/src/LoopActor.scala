@@ -5,9 +5,4 @@ import  scala.actors.actor
 object  LoopActor extends Actor
 {
 
-
-
-
-
-
 }
